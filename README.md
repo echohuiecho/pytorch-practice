@@ -18,7 +18,7 @@ To get started with the notebooks and code in this repository, you will need to 
 
 The notebooks in this repository cover a variety of topics, including:
 
-- Linear regression
+- [Linear regression](linear-regression/)
 - [Convolutional neural networks (CNNs)](computer_vision/)
 - *More to come...*
 
