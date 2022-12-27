@@ -19,7 +19,7 @@ To get started with the notebooks and code in this repository, you will need to 
 The notebooks in this repository cover a variety of topics, including:
 
 - Linear regression
-- Convolutional neural networks (CNNs)
+- [Convolutional neural networks (CNNs)](computer_vision/)
 - *More to come...*
 
 To open and run the notebooks in this repository, simply click on the notebook link and it will open in Google Colab.
